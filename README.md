@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Application Description
+This project is hacker news application that was built using React.js, GraphQL, Apollo
 
 ## Available Scripts
 
